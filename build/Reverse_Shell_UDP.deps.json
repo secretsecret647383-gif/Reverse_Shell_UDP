@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Reverse_Shell_UDP/1.0.0": {
+        "runtime": {
+          "Reverse_Shell_UDP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Reverse_Shell_UDP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
