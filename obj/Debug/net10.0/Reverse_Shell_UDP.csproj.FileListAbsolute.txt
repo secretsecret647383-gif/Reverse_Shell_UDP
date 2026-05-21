@@ -1,0 +1,15 @@
+C:\Users\harri\Desktop\Reverse_Shell_UDP\obj\Debug\net10.0\Reverse_Shell_UDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harri\Desktop\Reverse_Shell_UDP\obj\Debug\net10.0\Reverse_Shell_UDP.AssemblyInfoInputs.cache
+C:\Users\harri\Desktop\Reverse_Shell_UDP\obj\Debug\net10.0\Reverse_Shell_UDP.AssemblyInfo.cs
+C:\Users\harri\Desktop\Reverse_Shell_UDP\obj\Debug\net10.0\Reverse_Shell_UDP.csproj.CoreCompileInputs.cache
+C:\Users\harri\Desktop\Reverse_Shell_UDP\obj\Debug\net10.0\Reverse_Shell_UDP.sourcelink.json
+C:\Users\harri\Desktop\Reverse_Shell_UDP\bin\Debug\net10.0\Reverse_Shell_UDP.exe
+C:\Users\harri\Desktop\Reverse_Shell_UDP\bin\Debug\net10.0\Reverse_Shell_UDP.deps.json
+C:\Users\harri\Desktop\Reverse_Shell_UDP\bin\Debug\net10.0\Reverse_Shell_UDP.runtimeconfig.json
+C:\Users\harri\Desktop\Reverse_Shell_UDP\bin\Debug\net10.0\Reverse_Shell_UDP.dll
+C:\Users\harri\Desktop\Reverse_Shell_UDP\bin\Debug\net10.0\Reverse_Shell_UDP.pdb
+C:\Users\harri\Desktop\Reverse_Shell_UDP\obj\Debug\net10.0\Reverse_Shell_UDP.dll
+C:\Users\harri\Desktop\Reverse_Shell_UDP\obj\Debug\net10.0\refint\Reverse_Shell_UDP.dll
+C:\Users\harri\Desktop\Reverse_Shell_UDP\obj\Debug\net10.0\Reverse_Shell_UDP.pdb
+C:\Users\harri\Desktop\Reverse_Shell_UDP\obj\Debug\net10.0\Reverse_Shell_UDP.genruntimeconfig.cache
+C:\Users\harri\Desktop\Reverse_Shell_UDP\obj\Debug\net10.0\ref\Reverse_Shell_UDP.dll
